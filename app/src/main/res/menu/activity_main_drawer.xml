@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:title="परिचय"/>
+        <item
+            android:id="@+id/nav_page1"
+
+            android:title="वृद्धावस्था और पोषण" />
+        <item
+            android:id="@+id/nav_page2"
+
+
+            android:title="व्यायाम" />
+        <item
+            android:id="@+id/nav_page3"
+
+            android:title="शैयाग्रस्त रोगियों को देखभाल" />
+        <item
+            android:id="@+id/nav_page4"
+
+            android:title="आश्रित वृद्धजनों को दैनन्दिन क्रियाओं हेतु सुझाव " />
+        <item
+            android:id="@+id/nav_page5"
+
+            android:title="देखभालकर्ता को समस्याएं" />
+        <item
+            android:id="@+id/nav_page6"
+
+            android:title="स्वस्थ वृद्धावस्था" />
+
+
+
+
+
+            <item
+                android:id="@+id/nav_contact"
+                android:title="संपर्क करें" />
+
+        </group>
+
+
+</menu>
